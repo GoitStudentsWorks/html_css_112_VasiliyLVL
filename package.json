@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/project_teme20/",
+    "build": "vite build --base=/html_css_112_VasiliyLVL/",
     "preview": "vite preview"
   },
   "devDependencies": {
